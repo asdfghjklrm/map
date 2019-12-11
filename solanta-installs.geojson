@@ -1,0 +1,5210 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.857253,40.683377 ]
+    },
+    "properties": {
+    "First Name":"Nurul",
+    "Last Initial":"H.",
+    "Solar Module Count":20,
+    "Module Wattage":"320W",
+    "Module Manufacturer":"Hanwha",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.765916,40.6828829 ]
+    },
+    "properties": {
+    "First Name":"Patricia",
+    "Last Initial":"C.",
+    "Solar Module Count":14,
+    "Module Wattage":"335W",
+    "Module Manufacturer":"LG",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.781898,40.769506 ]
+    },
+    "properties": {
+    "First Name":"Pavresh",
+    "Last Initial":"C.",
+    "Solar Module Count":18,
+    "Module Wattage":"290W",
+    "Module Manufacturer":"Hanwha",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.72607,40.6546809 ]
+    },
+    "properties": {
+    "First Name":"Patricia",
+    "Last Initial":"J.",
+    "Solar Module Count":22,
+    "Module Wattage":"280W",
+    "Module Manufacturer":"Silfab",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.923124,40.736781 ]
+    },
+    "properties": {
+    "First Name":"PAZ",
+    "Last Initial":"B.",
+    "Solar Module Count":13,
+    "Module Wattage":"320W",
+    "Module Manufacturer":"Hanwha",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.865872,40.830938 ]
+    },
+    "properties": {
+    "First Name":"Imaleni",
+    "Last Initial":"P.",
+    "Solar Module Count":28,
+    "Module Wattage":"335W",
+    "Module Manufacturer":"LG",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0003916,40.5751448 ]
+    },
+    "properties": {
+    "First Name":"Providencia",
+    "Last Initial":"Q.",
+    "Solar Module Count":18,
+    "Module Wattage":"335W",
+    "Module Manufacturer":"LG",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.874959,40.746978 ]
+    },
+    "properties": {
+    "First Name":"Raymond A",
+    "Last Initial":"C.",
+    "Solar Module Count":14,
+    "Module Wattage":"290W",
+    "Module Manufacturer":"Silfab",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.905519,40.698866 ]
+    },
+    "properties": {
+    "First Name":"Benjamin",
+    "Last Initial":"R.",
+    "Solar Module Count":14,
+    "Module Wattage":"280W",
+    "Module Manufacturer":"Silfab",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.841478,40.900516 ]
+    },
+    "properties": {
+    "First Name":"Trevor",
+    "Last Initial":"W.",
+    "Solar Module Count":22,
+    "Module Wattage":"330W",
+    "Module Manufacturer":"LG",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.221725,40.536252 ]
+    },
+    "properties": {
+    "First Name":"Urszula",
+    "Last Initial":"R.",
+    "Solar Module Count":26,
+    "Module Wattage":"280W",
+    "Module Manufacturer":"Silfab",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.908085,40.72372 ]
+    },
+    "properties": {
+    "First Name":"STANISLAW",
+    "Last Initial":"Z.",
+    "Solar Module Count":null,
+    "Module Wattage":"",
+    "Module Manufacturer":"",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.777051,40.77001 ]
+    },
+    "properties": {
+    "First Name":"Thomas",
+    "Last Initial":"S.",
+    "Solar Module Count":19,
+    "Module Wattage":"335W",
+    "Module Manufacturer":"LG",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.787483,40.687717 ]
+    },
+    "properties": {
+    "First Name":"Johnnie",
+    "Last Initial":"T.",
+    "Solar Module Count":12,
+    "Module Wattage":"330W",
+    "Module Manufacturer":"LG",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9878123,40.6408992 ]
+    },
+    "properties": {
+    "First Name":"Chaim",
+    "Last Initial":"S.",
+    "Solar Module Count":18,
+    "Module Wattage":"335W",
+    "Module Manufacturer":"LG",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.789299,40.697199 ]
+    },
+    "properties": {
+    "First Name":"Merlene",
+    "Last Initial":"S.",
+    "Solar Module Count":12,
+    "Module Wattage":"335W",
+    "Module Manufacturer":"LG",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.728052,40.727675 ]
+    },
+    "properties": {
+    "First Name":"Molly",
+    "Last Initial":"S.",
+    "Solar Module Count":14,
+    "Module Wattage":"280W",
+    "Module Manufacturer":"Jinko",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.982638,40.601969 ]
+    },
+    "properties": {
+    "First Name":"Vito",
+    "Last Initial":"S.",
+    "Solar Module Count":26,
+    "Module Wattage":"290W",
+    "Module Manufacturer":"Hanwha",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.757328,40.70206 ]
+    },
+    "properties": {
+    "First Name":"Brooks",
+    "Last Initial":"M.",
+    "Solar Module Count":22,
+    "Module Wattage":"280W",
+    "Module Manufacturer":"Silfab",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8671408,40.6726867 ]
+    },
+    "properties": {
+    "First Name":"Justin",
+    "Last Initial":"C.",
+    "Solar Module Count":16,
+    "Module Wattage":"335W",
+    "Module Manufacturer":"LG",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8403639,40.694328 ]
+    },
+    "properties": {
+    "First Name":"David",
+    "Last Initial":"S.",
+    "Solar Module Count":25,
+    "Module Wattage":"330W",
+    "Module Manufacturer":"LG",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.804495,40.715143 ]
+    },
+    "properties": {
+    "First Name":"Abdul",
+    "Last Initial":"C.",
+    "Solar Module Count":16,
+    "Module Wattage":"290W",
+    "Module Manufacturer":"Hanwha",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.987279,40.6001369 ]
+    },
+    "properties": {
+    "First Name":"Shun",
+    "Last Initial":"C.",
+    "Solar Module Count":28,
+    "Module Wattage":"335W",
+    "Module Manufacturer":"LG",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.940661,40.764339 ]
+    },
+    "properties": {
+    "First Name":"Anthony",
+    "Last Initial":"A.",
+    "Solar Module Count":14,
+    "Module Wattage":"295W",
+    "Module Manufacturer":"Hanwha",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.88942,40.727741 ]
+    },
+    "properties": {
+    "First Name":"Anamul",
+    "Last Initial":"H.",
+    "Solar Module Count":21,
+    "Module Wattage":"290W",
+    "Module Manufacturer":"Silfab",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.027713,40.626411 ]
+    },
+    "properties": {
+    "First Name":"ROBERT",
+    "Last Initial":"A.",
+    "Solar Module Count":12,
+    "Module Wattage":"335W",
+    "Module Manufacturer":"LG",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.770469,40.706406 ]
+    },
+    "properties": {
+    "First Name":"Thomas",
+    "Last Initial":"G.",
+    "Solar Module Count":14,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9737512,40.6446751 ]
+    },
+    "properties": {
+    "First Name":"Neak",
+    "Last Initial":"C.",
+    "Solar Module Count":22,
+    "Module Wattage":"280W",
+    "Module Manufacturer":"Silfab",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.771669,40.662251 ]
+    },
+    "properties": {
+    "First Name":"Joseph",
+    "Last Initial":"A.",
+    "Solar Module Count":14,
+    "Module Wattage":"290W",
+    "Module Manufacturer":"Hanwha",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.902045,40.747676 ]
+    },
+    "properties": {
+    "First Name":"Apurba",
+    "Last Initial":"P.",
+    "Solar Module Count":18,
+    "Module Wattage":"290W",
+    "Module Manufacturer":"Hanwha",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9492308,40.6250659 ]
+    },
+    "properties": {
+    "First Name":"Menachim",
+    "Last Initial":"S.",
+    "Solar Module Count":30,
+    "Module Wattage":"295W",
+    "Module Manufacturer":"Hanwha",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8423888,40.8783236 ]
+    },
+    "properties": {
+    "First Name":"Florence Marie Owonibi",
+    "Last Initial":"A.",
+    "Solar Module Count":18,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9013126,40.7552934 ]
+    },
+    "properties": {
+    "First Name":"Alvaro",
+    "Last Initial":"P.",
+    "Solar Module Count":22,
+    "Module Wattage":"290W",
+    "Module Manufacturer":"Hanwha",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.834788,40.745232 ]
+    },
+    "properties": {
+    "First Name":"Calvin",
+    "Last Initial":"W.",
+    "Solar Module Count":26,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9481287,40.6577354 ]
+    },
+    "properties": {
+    "First Name":"Annie",
+    "Last Initial":"P.",
+    "Solar Module Count":14,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"Hanwha",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.89814,40.855557 ]
+    },
+    "properties": {
+    "First Name":"Luis",
+    "Last Initial":"V.",
+    "Solar Module Count":24,
+    "Module Wattage":"325W",
+    "Module Manufacturer":"Canadian Solar",
+    "Inverter Manufacturer":"SMA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.729349,40.669936 ]
+    },
+    "properties": {
+    "First Name":"Gracey",
+    "Last Initial":"B.",
+    "Solar Module Count":16,
+    "Module Wattage":"335W",
+    "Module Manufacturer":"LG",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.89924,40.724502 ]
+    },
+    "properties": {
+    "First Name":"Robert",
+    "Last Initial":"R.",
+    "Solar Module Count":29,
+    "Module Wattage":"365W",
+    "Module Manufacturer":"LG",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.807915,40.692977 ]
+    },
+    "properties": {
+    "First Name":"Mark",
+    "Last Initial":"C.",
+    "Solar Module Count":14,
+    "Module Wattage":"335W",
+    "Module Manufacturer":"LG",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.809433,40.693321 ]
+    },
+    "properties": {
+    "First Name":"Delores",
+    "Last Initial":"C.",
+    "Solar Module Count":14,
+    "Module Wattage":"280W",
+    "Module Manufacturer":"Silfab",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9475775,40.6234025 ]
+    },
+    "properties": {
+    "First Name":"Marc",
+    "Last Initial":"S.",
+    "Solar Module Count":25,
+    "Module Wattage":"335W",
+    "Module Manufacturer":"LG",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.740044,40.681128 ]
+    },
+    "properties": {
+    "First Name":"Alma",
+    "Last Initial":"B.",
+    "Solar Module Count":13,
+    "Module Wattage":"335W",
+    "Module Manufacturer":"LG",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.749504,40.687103 ]
+    },
+    "properties": {
+    "First Name":"Rose",
+    "Last Initial":"B.",
+    "Solar Module Count":14,
+    "Module Wattage":"295W",
+    "Module Manufacturer":"Hanwha",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9245662,40.6273931 ]
+    },
+    "properties": {
+    "First Name":"Sebastian",
+    "Last Initial":"D.",
+    "Solar Module Count":14,
+    "Module Wattage":"290W",
+    "Module Manufacturer":"Silfab",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9482434,40.6267763 ]
+    },
+    "properties": {
+    "First Name":"Paul",
+    "Last Initial":"S.",
+    "Solar Module Count":32,
+    "Module Wattage":"305W",
+    "Module Manufacturer":"Trina",
+    "Inverter Manufacturer":"SolarEdge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9134546,40.7813938 ]
+    },
+    "properties": {
+    "First Name":"Livia",
+    "Last Initial":"T.",
+    "Solar Module Count":14,
+    "Module Wattage":"255W",
+    "Module Manufacturer":"Trina",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.913059,40.618459 ]
+    },
+    "properties": {
+    "First Name":"Edward",
+    "Last Initial":"N.",
+    "Solar Module Count":16,
+    "Module Wattage":"305W",
+    "Module Manufacturer":"Hanwha",
+    "Inverter Manufacturer":"SolarEdge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.2002724,40.54144 ]
+    },
+    "properties": {
+    "First Name":"John",
+    "Last Initial":"R.",
+    "Solar Module Count":28,
+    "Module Wattage":"305W",
+    "Module Manufacturer":"Hanwha",
+    "Inverter Manufacturer":"SolarEdge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8235594,40.7590321 ]
+    },
+    "properties": {
+    "First Name":"Howard",
+    "Last Initial":"P.",
+    "Solar Module Count":142,
+    "Module Wattage":"305W",
+    "Module Manufacturer":"",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9640868,40.5979005 ]
+    },
+    "properties": {
+    "First Name":"Maurice",
+    "Last Initial":"B.",
+    "Solar Module Count":26,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9707552,40.6402574 ]
+    },
+    "properties": {
+    "First Name":"Neesha",
+    "Last Initial":"P.",
+    "Solar Module Count":28,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9864348,40.6318671 ]
+    },
+    "properties": {
+    "First Name":"Eliezer",
+    "Last Initial":"F.",
+    "Solar Module Count":15,
+    "Module Wattage":"330W",
+    "Module Manufacturer":"",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7993264,40.6767253 ]
+    },
+    "properties": {
+    "First Name":"Latchman",
+    "Last Initial":"S.",
+    "Solar Module Count":33,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8245995,40.7555718 ]
+    },
+    "properties": {
+    "First Name":"Howard",
+    "Last Initial":"P.",
+    "Solar Module Count":133,
+    "Module Wattage":"250W",
+    "Module Manufacturer":"",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1604819,40.5368206 ]
+    },
+    "properties": {
+    "First Name":"Jose",
+    "Last Initial":"L.",
+    "Solar Module Count":20,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0103192,40.6496653 ]
+    },
+    "properties": {
+    "First Name":"Gerardo",
+    "Last Initial":"R.",
+    "Solar Module Count":14,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8609362,40.8512574 ]
+    },
+    "properties": {
+    "First Name":"Joselito",
+    "Last Initial":"P.",
+    "Solar Module Count":10,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.725953,40.7298263 ]
+    },
+    "properties": {
+    "First Name":"Shabana",
+    "Last Initial":"H.",
+    "Solar Module Count":22,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8197345,40.6853887 ]
+    },
+    "properties": {
+    "First Name":"Shanti",
+    "Last Initial":"S.",
+    "Solar Module Count":24,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7355643,40.7220149 ]
+    },
+    "properties": {
+    "First Name":"Rosa",
+    "Last Initial":"G.",
+    "Solar Module Count":20,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9311497,40.6315101 ]
+    },
+    "properties": {
+    "First Name":"Yolanda",
+    "Last Initial":"T.",
+    "Solar Module Count":17,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.891778,40.72719 ]
+    },
+    "properties": {
+    "First Name":"Kai Kin",
+    "Last Initial":"K.",
+    "Solar Module Count":18,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.874666,40.676321 ]
+    },
+    "properties": {
+    "First Name":"Terrance",
+    "Last Initial":"M.",
+    "Solar Module Count":20,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8566687,40.8799698 ]
+    },
+    "properties": {
+    "First Name":"Yaw",
+    "Last Initial":"A.",
+    "Solar Module Count":23,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7384831,40.6693228 ]
+    },
+    "properties": {
+    "First Name":"Pauline",
+    "Last Initial":"B.",
+    "Solar Module Count":21,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9073894,40.8335075 ]
+    },
+    "properties": {
+    "First Name":"Fausto",
+    "Last Initial":"A.",
+    "Solar Module Count":34,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9327878,40.6287485 ]
+    },
+    "properties": {
+    "First Name":"Robert",
+    "Last Initial":"W.",
+    "Solar Module Count":24,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.788418,40.690001 ]
+    },
+    "properties": {
+    "First Name":"Andres",
+    "Last Initial":"F.",
+    "Solar Module Count":9,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8930445,40.6685999 ]
+    },
+    "properties": {
+    "First Name":"Annette",
+    "Last Initial":"M.",
+    "Solar Module Count":30,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.865123,40.874102 ]
+    },
+    "properties": {
+    "First Name":"Yabor",
+    "Last Initial":"Y.",
+    "Solar Module Count":35,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8679939,40.8424866 ]
+    },
+    "properties": {
+    "First Name":"Diaram",
+    "Last Initial":"P.",
+    "Solar Module Count":38,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9308123,40.6462579 ]
+    },
+    "properties": {
+    "First Name":"Julia",
+    "Last Initial":"S.",
+    "Solar Module Count":13,
+    "Module Wattage":"370W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8684287,40.68031 ]
+    },
+    "properties": {
+    "First Name":"Veerasammy",
+    "Last Initial":"N.",
+    "Solar Module Count":21,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.793574,40.692721 ]
+    },
+    "properties": {
+    "First Name":"Dean",
+    "Last Initial":"W.",
+    "Solar Module Count":8,
+    "Module Wattage":"350W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.07727,40.613242 ]
+    },
+    "properties": {
+    "First Name":"Quang",
+    "Last Initial":"R.",
+    "Solar Module Count":14,
+    "Module Wattage":"330W",
+    "Module Manufacturer":"",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8668802,40.686339 ]
+    },
+    "properties": {
+    "First Name":"Denise",
+    "Last Initial":"P.",
+    "Solar Module Count":8,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.745554,40.7225835 ]
+    },
+    "properties": {
+    "First Name":"Victor",
+    "Last Initial":"C.",
+    "Solar Module Count":20,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.970972,41.3735096 ]
+    },
+    "properties": {
+    "First Name":"Robert",
+    "Last Initial":"V.",
+    "Solar Module Count":null,
+    "Module Wattage":"",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8642487,40.8158988 ]
+    },
+    "properties": {
+    "First Name":"George",
+    "Last Initial":"I.",
+    "Solar Module Count":34,
+    "Module Wattage":"335W",
+    "Module Manufacturer":"",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1750834,40.5504971 ]
+    },
+    "properties": {
+    "First Name":"Ernest",
+    "Last Initial":"K.",
+    "Solar Module Count":24,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9619123,40.6316043 ]
+    },
+    "properties": {
+    "First Name":"Paul",
+    "Last Initial":"P.",
+    "Solar Module Count":12,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.823558,40.727172 ]
+    },
+    "properties": {
+    "First Name":"Israel",
+    "Last Initial":"I.",
+    "Solar Module Count":26,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9826677,40.6576086 ]
+    },
+    "properties": {
+    "First Name":"Kelly",
+    "Last Initial":"W.",
+    "Solar Module Count":14,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.781422,40.67087 ]
+    },
+    "properties": {
+    "First Name":"Quen",
+    "Last Initial":"L.",
+    "Solar Module Count":15,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.87898,40.667107 ]
+    },
+    "properties": {
+    "First Name":"Joyce",
+    "Last Initial":"P.",
+    "Solar Module Count":26,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8871354,40.6720375 ]
+    },
+    "properties": {
+    "First Name":"Anthony",
+    "Last Initial":"F.",
+    "Solar Module Count":50,
+    "Module Wattage":"370W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9978163,40.6330076 ]
+    },
+    "properties": {
+    "First Name":"Miklos",
+    "Last Initial":"S.",
+    "Solar Module Count":20,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.591396,40.675726 ]
+    },
+    "properties": {
+    "First Name":"Sheila",
+    "Last Initial":"P.",
+    "Solar Module Count":38,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.745909,40.6741205 ]
+    },
+    "properties": {
+    "First Name":"Shamari",
+    "Last Initial":"M.",
+    "Solar Module Count":50,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8604203,40.8695936 ]
+    },
+    "properties": {
+    "First Name":"Milton",
+    "Last Initial":"G.",
+    "Solar Module Count":12,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9168914,40.8166156 ]
+    },
+    "properties": {
+    "First Name":"Julio",
+    "Last Initial":"P.",
+    "Solar Module Count":10,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.922559,40.8431692 ]
+    },
+    "properties": {
+    "First Name":"Kaka",
+    "Last Initial":"D.",
+    "Solar Module Count":27,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9218042,40.6556405 ]
+    },
+    "properties": {
+    "First Name":"Laura Philip",
+    "Last Initial":"S.",
+    "Solar Module Count":18,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.631455,40.748235 ]
+    },
+    "properties": {
+    "First Name":"Harrichand",
+    "Last Initial":"P.",
+    "Solar Module Count":28,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.900592,40.8726738 ]
+    },
+    "properties": {
+    "First Name":"Linda",
+    "Last Initial":"O.",
+    "Solar Module Count":38,
+    "Module Wattage":"330W",
+    "Module Manufacturer":"",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9055537,40.6493774 ]
+    },
+    "properties": {
+    "First Name":"Nadine",
+    "Last Initial":"M.",
+    "Solar Module Count":18,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9840007,40.5847095 ]
+    },
+    "properties": {
+    "First Name":"Wu Fang",
+    "Last Initial":"H.",
+    "Solar Module Count":25,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8168536,40.8878901 ]
+    },
+    "properties": {
+    "First Name":"Luis",
+    "Last Initial":"C.",
+    "Solar Module Count":36,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.85269,40.816464 ]
+    },
+    "properties": {
+    "First Name":"Raymond",
+    "Last Initial":"C.",
+    "Solar Module Count":16,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7373285,40.6946949 ]
+    },
+    "properties": {
+    "First Name":"Pauline",
+    "Last Initial":"M.",
+    "Solar Module Count":25,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.733006,40.652216 ]
+    },
+    "properties": {
+    "First Name":"Mojisola",
+    "Last Initial":"E.",
+    "Solar Module Count":20,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8927069,40.6555559 ]
+    },
+    "properties": {
+    "First Name":"Cheryl",
+    "Last Initial":"C.",
+    "Solar Module Count":36,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7367656,40.6544803 ]
+    },
+    "properties": {
+    "First Name":"Michelle",
+    "Last Initial":"K.",
+    "Solar Module Count":33,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8112692,40.6812352 ]
+    },
+    "properties": {
+    "First Name":"Carolyn",
+    "Last Initial":"P.",
+    "Solar Module Count":17,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8392596,40.9153604 ]
+    },
+    "properties": {
+    "First Name":"Dora",
+    "Last Initial":"S.",
+    "Solar Module Count":25,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9280695,40.6483004 ]
+    },
+    "properties": {
+    "First Name":"Winslow",
+    "Last Initial":"H.",
+    "Solar Module Count":26,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8673328,40.7567299 ]
+    },
+    "properties": {
+    "First Name":"Virginia",
+    "Last Initial":"N.",
+    "Solar Module Count":26,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.777106,40.673739 ]
+    },
+    "properties": {
+    "First Name":"Rocksanne",
+    "Last Initial":"M.",
+    "Solar Module Count":16,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.867153,40.67869 ]
+    },
+    "properties": {
+    "First Name":"John",
+    "Last Initial":"C.",
+    "Solar Module Count":17,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9570539,40.6452231 ]
+    },
+    "properties": {
+    "First Name":"Angela",
+    "Last Initial":"J.",
+    "Solar Module Count":18,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.887938,40.6743795 ]
+    },
+    "properties": {
+    "First Name":"Sylvia",
+    "Last Initial":"W.",
+    "Solar Module Count":46,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8095123,40.7613097 ]
+    },
+    "properties": {
+    "First Name":"SauNgar",
+    "Last Initial":"Y.",
+    "Solar Module Count":9,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.749621,40.69983 ]
+    },
+    "properties": {
+    "First Name":"Victor",
+    "Last Initial":"P.",
+    "Solar Module Count":16,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8458992,40.7205676 ]
+    },
+    "properties": {
+    "First Name":"Howard",
+    "Last Initial":"P.",
+    "Solar Module Count":128,
+    "Module Wattage":"260W",
+    "Module Manufacturer":"",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.85797,40.918144 ]
+    },
+    "properties": {
+    "First Name":"Irving",
+    "Last Initial":"M.",
+    "Solar Module Count":38,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.2001496,40.5185243 ]
+    },
+    "properties": {
+    "First Name":"Sabato",
+    "Last Initial":"M.",
+    "Solar Module Count":64,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.786977,40.684156 ]
+    },
+    "properties": {
+    "First Name":"Trevor",
+    "Last Initial":"J.",
+    "Solar Module Count":12,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.198483,40.5562259 ]
+    },
+    "properties": {
+    "First Name":"Andrew",
+    "Last Initial":"F.",
+    "Solar Module Count":20,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8930445,40.6685999 ]
+    },
+    "properties": {
+    "First Name":"Titus",
+    "Last Initial":"R.",
+    "Solar Module Count":8,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8673328,40.7567299 ]
+    },
+    "properties": {
+    "First Name":"Luis",
+    "Last Initial":"F.",
+    "Solar Module Count":34,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.898428,40.631489 ]
+    },
+    "properties": {
+    "First Name":"Gladys",
+    "Last Initial":"R.",
+    "Solar Module Count":14,
+    "Module Wattage":"290W",
+    "Module Manufacturer":"",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.200099,40.544294 ]
+    },
+    "properties": {
+    "First Name":"Brian",
+    "Last Initial":"H.",
+    "Solar Module Count":26,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9295692,40.6257575 ]
+    },
+    "properties": {
+    "First Name":"Glendon",
+    "Last Initial":"L.",
+    "Solar Module Count":30,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9055433,40.6454531 ]
+    },
+    "properties": {
+    "First Name":"Wasbourne",
+    "Last Initial":"W.",
+    "Solar Module Count":13,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7410401,41.0680655 ]
+    },
+    "properties": {
+    "First Name":"Gennaro",
+    "Last Initial":"S.",
+    "Solar Module Count":30,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7662374,40.6845384 ]
+    },
+    "properties": {
+    "First Name":"Vienna",
+    "Last Initial":"P.",
+    "Solar Module Count":15,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8406239,40.683521 ]
+    },
+    "properties": {
+    "First Name":"Bibi",
+    "Last Initial":"H.",
+    "Solar Module Count":23,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.813021,40.688506 ]
+    },
+    "properties": {
+    "First Name":"Edward",
+    "Last Initial":"F.",
+    "Solar Module Count":17,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.753086,40.694213 ]
+    },
+    "properties": {
+    "First Name":"Debra",
+    "Last Initial":"S.",
+    "Solar Module Count":23,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0700817,40.6095729 ]
+    },
+    "properties": {
+    "First Name":"Sayed",
+    "Last Initial":"E.",
+    "Solar Module Count":20,
+    "Module Wattage":"335W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8640866,40.6941787 ]
+    },
+    "properties": {
+    "First Name":"Ana",
+    "Last Initial":"N.",
+    "Solar Module Count":44,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8303486,40.7099344 ]
+    },
+    "properties": {
+    "First Name":"Olivia",
+    "Last Initial":"C.",
+    "Solar Module Count":25,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9095042,40.6891808 ]
+    },
+    "properties": {
+    "First Name":"John",
+    "Last Initial":"E.",
+    "Solar Module Count":12,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.90066,40.72188 ]
+    },
+    "properties": {
+    "First Name":"Angela",
+    "Last Initial":"K.",
+    "Solar Module Count":25,
+    "Module Wattage":"330W",
+    "Module Manufacturer":"Hanwha",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1466863,40.6356542 ]
+    },
+    "properties": {
+    "First Name":"Kalawattie",
+    "Last Initial":"M.",
+    "Solar Module Count":11,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8972328,40.7686247 ]
+    },
+    "properties": {
+    "First Name":"Sazzad",
+    "Last Initial":"C.",
+    "Solar Module Count":29,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8972182,40.6430581 ]
+    },
+    "properties": {
+    "First Name":"Yonetta",
+    "Last Initial":"D.",
+    "Solar Module Count":17,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.922559,40.8431692 ]
+    },
+    "properties": {
+    "First Name":"Amadu",
+    "Last Initial":"K.",
+    "Solar Module Count":22,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0146081,40.6076841 ]
+    },
+    "properties": {
+    "First Name":"Krzysztof",
+    "Last Initial":"K.",
+    "Solar Module Count":21,
+    "Module Wattage":"327W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.914146,40.636704 ]
+    },
+    "properties": {
+    "First Name":"Arnold",
+    "Last Initial":"J.",
+    "Solar Module Count":12,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.914002,40.691737 ]
+    },
+    "properties": {
+    "First Name":"Calvin",
+    "Last Initial":"B.",
+    "Solar Module Count":25,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1525421,40.5846665 ]
+    },
+    "properties": {
+    "First Name":"Dean",
+    "Last Initial":"S.",
+    "Solar Module Count":28,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.809651,40.716083 ]
+    },
+    "properties": {
+    "First Name":"Rafael",
+    "Last Initial":"I.",
+    "Solar Module Count":14,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0844413,40.6172793 ]
+    },
+    "properties": {
+    "First Name":"Rafat",
+    "Last Initial":"B.",
+    "Solar Module Count":32,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.880183,40.6716076 ]
+    },
+    "properties": {
+    "First Name":"Nilba",
+    "Last Initial":"R.",
+    "Solar Module Count":20,
+    "Module Wattage":"370W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9770742,40.6723522 ]
+    },
+    "properties": {
+    "First Name":"Iain",
+    "Last Initial":"L.",
+    "Solar Module Count":11,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1038263,40.5615009 ]
+    },
+    "properties": {
+    "First Name":"Aleksandr",
+    "Last Initial":"K.",
+    "Solar Module Count":24,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7657394,40.7146499 ]
+    },
+    "properties": {
+    "First Name":"Jean",
+    "Last Initial":"A.",
+    "Solar Module Count":21,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9043599,40.7244507 ]
+    },
+    "properties": {
+    "First Name":"Veronica",
+    "Last Initial":"G.",
+    "Solar Module Count":7,
+    "Module Wattage":"370W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.025746,40.636465 ]
+    },
+    "properties": {
+    "First Name":"Edgar",
+    "Last Initial":"S.",
+    "Solar Module Count":40,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.3362933,41.1816377 ]
+    },
+    "properties": {
+    "First Name":"Jody",
+    "Last Initial":"V.",
+    "Solar Module Count":20,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9176102,40.8103581 ]
+    },
+    "properties": {
+    "First Name":"Aaron",
+    "Last Initial":"G.",
+    "Solar Module Count":20,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.160521,40.5876419 ]
+    },
+    "properties": {
+    "First Name":"Michael",
+    "Last Initial":"P.",
+    "Solar Module Count":19,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9469954,40.6069877 ]
+    },
+    "properties": {
+    "First Name":"Steven",
+    "Last Initial":"K.",
+    "Solar Module Count":16,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9848654,40.5790273 ]
+    },
+    "properties": {
+    "First Name":"Evelyne",
+    "Last Initial":"M.",
+    "Solar Module Count":10,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95088,40.7257215 ]
+    },
+    "properties": {
+    "First Name":"Jacek",
+    "Last Initial":"Z.",
+    "Solar Module Count":10,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7695515,40.6062803 ]
+    },
+    "properties": {
+    "First Name":"Yohance",
+    "Last Initial":"S.",
+    "Solar Module Count":36,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.5937322,40.5400108 ]
+    },
+    "properties": {
+    "First Name":"Richard",
+    "Last Initial":"A.",
+    "Solar Module Count":26,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":"SolarEdge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.789929,40.668047 ]
+    },
+    "properties": {
+    "First Name":"April",
+    "Last Initial":"F.",
+    "Solar Module Count":22,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8566687,40.8799698 ]
+    },
+    "properties": {
+    "First Name":"Tawakalitu",
+    "Last Initial":"Y.",
+    "Solar Module Count":26,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0723647,40.6196718 ]
+    },
+    "properties": {
+    "First Name":"Jose",
+    "Last Initial":"C.",
+    "Solar Module Count":12,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8852969,40.6832185 ]
+    },
+    "properties": {
+    "First Name":"Andrea",
+    "Last Initial":"P.",
+    "Solar Module Count":22,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8994039,40.6388337 ]
+    },
+    "properties": {
+    "First Name":"Jona",
+    "Last Initial":"E.",
+    "Solar Module Count":18,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7416351,40.7147824 ]
+    },
+    "properties": {
+    "First Name":"Florence",
+    "Last Initial":"P.",
+    "Solar Module Count":12,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.78124,40.71134 ]
+    },
+    "properties": {
+    "First Name":"Zaleena",
+    "Last Initial":"M.",
+    "Solar Module Count":6,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.3524296,41.0886506 ]
+    },
+    "properties": {
+    "First Name":"Elena",
+    "Last Initial":"D.",
+    "Solar Module Count":50,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.849512,40.718421 ]
+    },
+    "properties": {
+    "First Name":"Dolly",
+    "Last Initial":"G.",
+    "Solar Module Count":18,
+    "Module Wattage":"295W",
+    "Module Manufacturer":"Hanwha",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.909589,40.8427692 ]
+    },
+    "properties": {
+    "First Name":"Allan",
+    "Last Initial":"M.",
+    "Solar Module Count":16,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9098929,40.6774796 ]
+    },
+    "properties": {
+    "First Name":"Julio",
+    "Last Initial":"M.",
+    "Solar Module Count":20,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7475512,40.6069126 ]
+    },
+    "properties": {
+    "First Name":"Courtney",
+    "Last Initial":"H.",
+    "Solar Module Count":35,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8572479,40.8770749 ]
+    },
+    "properties": {
+    "First Name":"Adam",
+    "Last Initial":"B.",
+    "Solar Module Count":9,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9063235,40.6425725 ]
+    },
+    "properties": {
+    "First Name":"Franklin",
+    "Last Initial":"P.",
+    "Solar Module Count":20,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7849624,40.6864127 ]
+    },
+    "properties": {
+    "First Name":"Roshan",
+    "Last Initial":"K.",
+    "Solar Module Count":26,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.941229,40.622517 ]
+    },
+    "properties": {
+    "First Name":"Vijay",
+    "Last Initial":"M.",
+    "Solar Module Count":11,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.3169853,41.141152 ]
+    },
+    "properties": {
+    "First Name":"Batanelli Landscaping",
+    "Last Initial":".",
+    "Solar Module Count":null,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8759706,40.7195629 ]
+    },
+    "properties": {
+    "First Name":"Jamyang",
+    "Last Initial":"T.",
+    "Solar Module Count":6,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7519881,40.671163 ]
+    },
+    "properties": {
+    "First Name":"Steve",
+    "Last Initial":"B.",
+    "Solar Module Count":25,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9157377,40.6364917 ]
+    },
+    "properties": {
+    "First Name":"Trevor",
+    "Last Initial":"G.",
+    "Solar Module Count":15,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.001903,40.6483533 ]
+    },
+    "properties": {
+    "First Name":"Peter",
+    "Last Initial":"K.",
+    "Solar Module Count":20,
+    "Module Wattage":"370W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.5511705,40.6561904 ]
+    },
+    "properties": {
+    "First Name":"Matthew",
+    "Last Initial":"A.",
+    "Solar Module Count":15,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7422307,40.6766456 ]
+    },
+    "properties": {
+    "First Name":"Frank",
+    "Last Initial":"I.",
+    "Solar Module Count":14,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9259643,40.6385141 ]
+    },
+    "properties": {
+    "First Name":"Martin",
+    "Last Initial":"D.",
+    "Solar Module Count":25,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8572539,40.8174226 ]
+    },
+    "properties": {
+    "First Name":"Ethel",
+    "Last Initial":"D.",
+    "Solar Module Count":20,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8532654,40.827929 ]
+    },
+    "properties": {
+    "First Name":"Xsel",
+    "Last Initial":"G.",
+    "Solar Module Count":14,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8906495,40.8343783 ]
+    },
+    "properties": {
+    "First Name":"Farjahan",
+    "Last Initial":"A.",
+    "Solar Module Count":26,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.432983,41.440022 ]
+    },
+    "properties": {
+    "First Name":"Pedro",
+    "Last Initial":"D.",
+    "Solar Module Count":19,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7436601,40.66916 ]
+    },
+    "properties": {
+    "First Name":"Nilda",
+    "Last Initial":"N.",
+    "Solar Module Count":17,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.753282,40.723199 ]
+    },
+    "properties": {
+    "First Name":"Narine",
+    "Last Initial":"T.",
+    "Solar Module Count":14,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9686531,40.674487 ]
+    },
+    "properties": {
+    "First Name":"Peter",
+    "Last Initial":"J.",
+    "Solar Module Count":295,
+    "Module Wattage":"",
+    "Module Manufacturer":"",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8343622,40.6564975 ]
+    },
+    "properties": {
+    "First Name":"Donald",
+    "Last Initial":"S.",
+    "Solar Module Count":28,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9417455,40.6533485 ]
+    },
+    "properties": {
+    "First Name":"Keturah",
+    "Last Initial":"S.",
+    "Solar Module Count":20,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.863021,40.6841944 ]
+    },
+    "properties": {
+    "First Name":"Hibet",
+    "Last Initial":"S.",
+    "Solar Module Count":9,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9290018,40.6482447 ]
+    },
+    "properties": {
+    "First Name":"Claude",
+    "Last Initial":"E.",
+    "Solar Module Count":12,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.195573,40.554155 ]
+    },
+    "properties": {
+    "First Name":"Angela",
+    "Last Initial":"J.",
+    "Solar Module Count":25,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7761219,40.6865378 ]
+    },
+    "properties": {
+    "First Name":"Comal",
+    "Last Initial":"D.",
+    "Solar Module Count":9,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8480118,40.8539434 ]
+    },
+    "properties": {
+    "First Name":"Jay",
+    "Last Initial":"G.",
+    "Solar Module Count":12,
+    "Module Wattage":"370W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8673328,40.7567299 ]
+    },
+    "properties": {
+    "First Name":"Marie",
+    "Last Initial":"L.",
+    "Solar Module Count":30,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9273962,40.8402731 ]
+    },
+    "properties": {
+    "First Name":"Landon",
+    "Last Initial":"D.",
+    "Solar Module Count":19,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9385828,40.6242371 ]
+    },
+    "properties": {
+    "First Name":"Esther",
+    "Last Initial":"F.",
+    "Solar Module Count":31,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.001797,40.64844 ]
+    },
+    "properties": {
+    "First Name":"Margrit",
+    "Last Initial":"K.",
+    "Solar Module Count":16,
+    "Module Wattage":"370W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8761449,40.7607069 ]
+    },
+    "properties": {
+    "First Name":"Geraldo",
+    "Last Initial":"G.",
+    "Solar Module Count":17,
+    "Module Wattage":"335W",
+    "Module Manufacturer":"LG",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7646104,40.7073092 ]
+    },
+    "properties": {
+    "First Name":"Stanley",
+    "Last Initial":"M.",
+    "Solar Module Count":23,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9111635,40.7610776 ]
+    },
+    "properties": {
+    "First Name":"Abul",
+    "Last Initial":"K.",
+    "Solar Module Count":29,
+    "Module Wattage":"370W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9140034,40.663396 ]
+    },
+    "properties": {
+    "First Name":"Leslie",
+    "Last Initial":"R.",
+    "Solar Module Count":19,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9190118,40.6264732 ]
+    },
+    "properties": {
+    "First Name":"yppolia",
+    "Last Initial":"D.",
+    "Solar Module Count":19,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8458992,40.7205676 ]
+    },
+    "properties": {
+    "First Name":"Howard",
+    "Last Initial":"P.",
+    "Solar Module Count":170,
+    "Module Wattage":"255W",
+    "Module Manufacturer":"",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7894635,40.8533275 ]
+    },
+    "properties": {
+    "First Name":"Alex",
+    "Last Initial":"S.",
+    "Solar Module Count":76,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.93623,40.6039807 ]
+    },
+    "properties": {
+    "First Name":"Alejandro",
+    "Last Initial":"R.",
+    "Solar Module Count":12,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9263696,40.6694936 ]
+    },
+    "properties": {
+    "First Name":"Antoinette",
+    "Last Initial":"K.",
+    "Solar Module Count":8,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8122804,40.816566 ]
+    },
+    "properties": {
+    "First Name":"Nanette",
+    "Last Initial":"G.",
+    "Solar Module Count":25,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7519977,40.7007078 ]
+    },
+    "properties": {
+    "First Name":"David",
+    "Last Initial":"F.",
+    "Solar Module Count":13,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9192613,40.6466817 ]
+    },
+    "properties": {
+    "First Name":"Maureen",
+    "Last Initial":"P.",
+    "Solar Module Count":9,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.821391,40.677982 ]
+    },
+    "properties": {
+    "First Name":"Millicent",
+    "Last Initial":"S.",
+    "Solar Module Count":13,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9385828,40.6242371 ]
+    },
+    "properties": {
+    "First Name":"Digna",
+    "Last Initial":"R.",
+    "Solar Module Count":29,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9234014,40.6863491 ]
+    },
+    "properties": {
+    "First Name":"Lucerne",
+    "Last Initial":"L.",
+    "Solar Module Count":15,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8540494,40.8758674 ]
+    },
+    "properties": {
+    "First Name":"Raymond",
+    "Last Initial":"V.",
+    "Solar Module Count":8,
+    "Module Wattage":"335W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8155083,40.7103294 ]
+    },
+    "properties": {
+    "First Name":"Howard",
+    "Last Initial":"P.",
+    "Solar Module Count":101,
+    "Module Wattage":"330W",
+    "Module Manufacturer":"",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9265186,40.6912375 ]
+    },
+    "properties": {
+    "First Name":"Ryan",
+    "Last Initial":"J.",
+    "Solar Module Count":22,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9420991,40.6530717 ]
+    },
+    "properties": {
+    "First Name":"Ruby",
+    "Last Initial":"G.",
+    "Solar Module Count":13,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7755853,40.7494974 ]
+    },
+    "properties": {
+    "First Name":"Limei",
+    "Last Initial":"Y.",
+    "Solar Module Count":13,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8733314,40.7630951 ]
+    },
+    "properties": {
+    "First Name":"Juan",
+    "Last Initial":"V.",
+    "Solar Module Count":14,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9064516,40.819701 ]
+    },
+    "properties": {
+    "First Name":"Troy",
+    "Last Initial":"W.",
+    "Solar Module Count":19,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.944405,40.653202 ]
+    },
+    "properties": {
+    "First Name":"Fred",
+    "Last Initial":"C.",
+    "Solar Module Count":15,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97579,40.612328 ]
+    },
+    "properties": {
+    "First Name":"Peter",
+    "Last Initial":"R.",
+    "Solar Module Count":17,
+    "Module Wattage":"370W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0683985,40.5948408 ]
+    },
+    "properties": {
+    "First Name":"Alberto",
+    "Last Initial":"L.",
+    "Solar Module Count":22,
+    "Module Wattage":"335W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.763446,40.710707 ]
+    },
+    "properties": {
+    "First Name":"Alick",
+    "Last Initial":"D.",
+    "Solar Module Count":20,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9110557,40.6369081 ]
+    },
+    "properties": {
+    "First Name":"Marie",
+    "Last Initial":"M.",
+    "Solar Module Count":19,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8795743,40.6834617 ]
+    },
+    "properties": {
+    "First Name":"Raymond",
+    "Last Initial":"P.",
+    "Solar Module Count":13,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8547154,40.8159491 ]
+    },
+    "properties": {
+    "First Name":"Kingsley",
+    "Last Initial":"N.",
+    "Solar Module Count":14,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9155136,40.6341286 ]
+    },
+    "properties": {
+    "First Name":"Gina",
+    "Last Initial":"C.",
+    "Solar Module Count":12,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1626675,40.5893502 ]
+    },
+    "properties": {
+    "First Name":"Mikhail",
+    "Last Initial":"T.",
+    "Solar Module Count":16,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9248263,40.6269419 ]
+    },
+    "properties": {
+    "First Name":"HazelAnn",
+    "Last Initial":"R.",
+    "Solar Module Count":6,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.932787,40.6890158 ]
+    },
+    "properties": {
+    "First Name":"Charles",
+    "Last Initial":"S.",
+    "Solar Module Count":13,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8979339,40.6341754 ]
+    },
+    "properties": {
+    "First Name":"Carmen",
+    "Last Initial":"C.",
+    "Solar Module Count":13,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9081929,40.631216 ]
+    },
+    "properties": {
+    "First Name":"Patrick",
+    "Last Initial":"S.",
+    "Solar Module Count":25,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9064516,40.819701 ]
+    },
+    "properties": {
+    "First Name":"Stephen",
+    "Last Initial":"W.",
+    "Solar Module Count":12,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8502162,40.8488398 ]
+    },
+    "properties": {
+    "First Name":"Adriana",
+    "Last Initial":"C.",
+    "Solar Module Count":18,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9270645,40.6973954 ]
+    },
+    "properties": {
+    "First Name":"Mohammad",
+    "Last Initial":"R.",
+    "Solar Module Count":22,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0275692,40.6184289 ]
+    },
+    "properties": {
+    "First Name":"Pushpal",
+    "Last Initial":"B.",
+    "Solar Module Count":16,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1117031,40.6320179 ]
+    },
+    "properties": {
+    "First Name":"Blaise",
+    "Last Initial":"V.",
+    "Solar Module Count":15,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.072638,40.6198716 ]
+    },
+    "properties": {
+    "First Name":"Peter",
+    "Last Initial":"C.",
+    "Solar Module Count":10,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9077789,40.6418553 ]
+    },
+    "properties": {
+    "First Name":"Sheron",
+    "Last Initial":"D.",
+    "Solar Module Count":10,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7681698,40.7660603 ]
+    },
+    "properties": {
+    "First Name":"Leslie",
+    "Last Initial":"O.",
+    "Solar Module Count":15,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7325175,40.7204101 ]
+    },
+    "properties": {
+    "First Name":"Mahendra",
+    "Last Initial":"G.",
+    "Solar Module Count":10,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9573651,40.6414335 ]
+    },
+    "properties": {
+    "First Name":"Victoria",
+    "Last Initial":"S.",
+    "Solar Module Count":15,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7895049,40.5906545 ]
+    },
+    "properties": {
+    "First Name":"Jarquin",
+    "Last Initial":"F.",
+    "Solar Module Count":21,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8250518,40.6860316 ]
+    },
+    "properties": {
+    "First Name":"Abdool Ameer",
+    "Last Initial":"G.",
+    "Solar Module Count":18,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.314457,40.922082 ]
+    },
+    "properties": {
+    "First Name":"Sadia",
+    "Last Initial":"H.",
+    "Solar Module Count":32,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9475221,40.6706499 ]
+    },
+    "properties": {
+    "First Name":"Jessie",
+    "Last Initial":"G.",
+    "Solar Module Count":15,
+    "Module Wattage":"275W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7422307,40.6766456 ]
+    },
+    "properties": {
+    "First Name":"Frank",
+    "Last Initial":"I.",
+    "Solar Module Count":11,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.925687,40.6259327 ]
+    },
+    "properties": {
+    "First Name":"Anne",
+    "Last Initial":"M.",
+    "Solar Module Count":17,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8081534,40.7113554 ]
+    },
+    "properties": {
+    "First Name":"Janet",
+    "Last Initial":"D.",
+    "Solar Module Count":14,
+    "Module Wattage":"350W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0265643,40.6271992 ]
+    },
+    "properties": {
+    "First Name":"Frank",
+    "Last Initial":"T.",
+    "Solar Module Count":39,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.90983,40.63394 ]
+    },
+    "properties": {
+    "First Name":"Errol",
+    "Last Initial":"M.",
+    "Solar Module Count":29,
+    "Module Wattage":"370W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8914337,40.641181 ]
+    },
+    "properties": {
+    "First Name":"James",
+    "Last Initial":"A.",
+    "Solar Module Count":15,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.2353529,40.5075619 ]
+    },
+    "properties": {
+    "First Name":"Bedzet (Benny)",
+    "Last Initial":"V.",
+    "Solar Module Count":47,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8197345,40.6853887 ]
+    },
+    "properties": {
+    "First Name":"Angel",
+    "Last Initial":"P.",
+    "Solar Module Count":18,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.923687,40.6878147 ]
+    },
+    "properties": {
+    "First Name":"Sheila",
+    "Last Initial":"B.",
+    "Solar Module Count":33,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.3658641,39.6555196 ]
+    },
+    "properties": {
+    "First Name":"Ryan",
+    "Last Initial":"W.",
+    "Solar Module Count":78,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0112325,39.5583189 ]
+    },
+    "properties": {
+    "First Name":"Chales",
+    "Last Initial":"G.",
+    "Solar Module Count":83,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1670847,40.5520009 ]
+    },
+    "properties": {
+    "First Name":"Ella",
+    "Last Initial":"T.",
+    "Solar Module Count":15,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8566687,40.8799698 ]
+    },
+    "properties": {
+    "First Name":"Pearline",
+    "Last Initial":"D.",
+    "Solar Module Count":24,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8609362,40.8512574 ]
+    },
+    "properties": {
+    "First Name":"Michael",
+    "Last Initial":"C.",
+    "Solar Module Count":26,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8989014,40.6649093 ]
+    },
+    "properties": {
+    "First Name":"Joseph",
+    "Last Initial":"S.",
+    "Solar Module Count":15,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8989014,40.6649093 ]
+    },
+    "properties": {
+    "First Name":"Kathleen",
+    "Last Initial":"G.",
+    "Solar Module Count":15,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8525082,40.7121664 ]
+    },
+    "properties": {
+    "First Name":"Zvi",
+    "Last Initial":"S.",
+    "Solar Module Count":16,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8156069,40.6895706 ]
+    },
+    "properties": {
+    "First Name":"Rosa",
+    "Last Initial":"C.",
+    "Solar Module Count":14,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8673328,40.7567299 ]
+    },
+    "properties": {
+    "First Name":"Angel",
+    "Last Initial":"P.",
+    "Solar Module Count":32,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8547154,40.8159491 ]
+    },
+    "properties": {
+    "First Name":"Samuel",
+    "Last Initial":"O.",
+    "Solar Module Count":13,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8606696,40.883723 ]
+    },
+    "properties": {
+    "First Name":"Elizbeth",
+    "Last Initial":"J.",
+    "Solar Module Count":16,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8865695,40.6690625 ]
+    },
+    "properties": {
+    "First Name":"Francisco",
+    "Last Initial":"R.",
+    "Solar Module Count":29,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8345141,40.6810781 ]
+    },
+    "properties": {
+    "First Name":"Rohanie",
+    "Last Initial":"K.",
+    "Solar Module Count":10,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8887225,40.8251794 ]
+    },
+    "properties": {
+    "First Name":"Julio",
+    "Last Initial":"Q.",
+    "Solar Module Count":19,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8474699,40.6699031 ]
+    },
+    "properties": {
+    "First Name":"Patricio",
+    "Last Initial":"M.",
+    "Solar Module Count":14,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7296113,40.6821509 ]
+    },
+    "properties": {
+    "First Name":"Eula",
+    "Last Initial":"H.",
+    "Solar Module Count":25,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9323819,40.6140247 ]
+    },
+    "properties": {
+    "First Name":"Woodly",
+    "Last Initial":"P.",
+    "Solar Module Count":6,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9021725,40.6437906 ]
+    },
+    "properties": {
+    "First Name":"Morris",
+    "Last Initial":"G.",
+    "Solar Module Count":15,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.5742135,40.7161436 ]
+    },
+    "properties": {
+    "First Name":"Sergio",
+    "Last Initial":"G.",
+    "Solar Module Count":28,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9336056,40.5924139 ]
+    },
+    "properties": {
+    "First Name":"Elsner",
+    "Last Initial":"P.",
+    "Solar Module Count":11,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9295692,40.6257575 ]
+    },
+    "properties": {
+    "First Name":"Almoth",
+    "Last Initial":"H.",
+    "Solar Module Count":14,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9119951,40.8316161 ]
+    },
+    "properties": {
+    "First Name":"Steven",
+    "Last Initial":"S.",
+    "Solar Module Count":null,
+    "Module Wattage":"",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9385828,40.6242371 ]
+    },
+    "properties": {
+    "First Name":"Shameeka",
+    "Last Initial":"P.",
+    "Solar Module Count":23,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9085305,40.6391356 ]
+    },
+    "properties": {
+    "First Name":"Marie",
+    "Last Initial":"L.",
+    "Solar Module Count":10,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.665149,40.251472 ]
+    },
+    "properties": {
+    "First Name":"Philip",
+    "Last Initial":"R.",
+    "Solar Module Count":41,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9333907,40.6934397 ]
+    },
+    "properties": {
+    "First Name":"Ebenezer",
+    "Last Initial":"A.",
+    "Solar Module Count":20,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.780231,40.707607 ]
+    },
+    "properties": {
+    "First Name":"Ameroon",
+    "Last Initial":"A.",
+    "Solar Module Count":32,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7541993,40.727828 ]
+    },
+    "properties": {
+    "First Name":"Surendranauth",
+    "Last Initial":"S.",
+    "Solar Module Count":20,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.969656,40.678081 ]
+    },
+    "properties": {
+    "First Name":"Knud-Erik",
+    "Last Initial":"R.",
+    "Solar Module Count":14,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8458992,40.7205676 ]
+    },
+    "properties": {
+    "First Name":"Howard",
+    "Last Initial":"P.",
+    "Solar Module Count":155,
+    "Module Wattage":"",
+    "Module Manufacturer":"",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1501872,40.559868 ]
+    },
+    "properties": {
+    "First Name":"Jan",
+    "Last Initial":"K.",
+    "Solar Module Count":28,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9845525,40.6380006 ]
+    },
+    "properties": {
+    "First Name":"Mendel",
+    "Last Initial":".",
+    "Solar Module Count":18,
+    "Module Wattage":"335W",
+    "Module Manufacturer":"LG",
+    "Inverter Manufacturer":"Enphase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.83564,40.888623 ]
+    },
+    "properties": {
+    "First Name":"Desmond",
+    "Last Initial":"C.",
+    "Solar Module Count":9,
+    "Module Wattage":"335W",
+    "Module Manufacturer":"LG",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9628181,40.6177122 ]
+    },
+    "properties": {
+    "First Name":"Samuel",
+    "Last Initial":"K.",
+    "Solar Module Count":35,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8813929,40.8298718 ]
+    },
+    "properties": {
+    "First Name":"Janet",
+    "Last Initial":"J.",
+    "Solar Module Count":32,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.860489,40.6849265 ]
+    },
+    "properties": {
+    "First Name":"Sunita",
+    "Last Initial":"R.",
+    "Solar Module Count":17,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8353587,40.707243 ]
+    },
+    "properties": {
+    "First Name":"Jerry",
+    "Last Initial":"R.",
+    "Solar Module Count":21,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.83447,40.8886643 ]
+    },
+    "properties": {
+    "First Name":"Billy",
+    "Last Initial":"V.",
+    "Solar Module Count":26,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9422851,40.6142828 ]
+    },
+    "properties": {
+    "First Name":"Steve",
+    "Last Initial":"S.",
+    "Solar Module Count":30,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8021513,40.7599768 ]
+    },
+    "properties": {
+    "First Name":"Paul",
+    "Last Initial":"K.",
+    "Solar Module Count":11,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8058618,40.7812631 ]
+    },
+    "properties": {
+    "First Name":"Bill",
+    "Last Initial":"K.",
+    "Solar Module Count":22,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9308123,40.6462579 ]
+    },
+    "properties": {
+    "First Name":"Frank",
+    "Last Initial":"O.",
+    "Solar Module Count":22,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9095748,40.8322694 ]
+    },
+    "properties": {
+    "First Name":"Ryan",
+    "Last Initial":"T.",
+    "Solar Module Count":14,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9517261,40.6488195 ]
+    },
+    "properties": {
+    "First Name":"Arash",
+    "Last Initial":"M.",
+    "Solar Module Count":22,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9373963,40.6449093 ]
+    },
+    "properties": {
+    "First Name":"Charmaine",
+    "Last Initial":"R.",
+    "Solar Module Count":11,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0019476,40.6437012 ]
+    },
+    "properties": {
+    "First Name":"Kam Lam",
+    "Last Initial":"A.",
+    "Solar Module Count":13,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8832069,40.8499694 ]
+    },
+    "properties": {
+    "First Name":"Esmirna",
+    "Last Initial":"V.",
+    "Solar Module Count":22,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8577802,40.8467981 ]
+    },
+    "properties": {
+    "First Name":"Xheme (James)",
+    "Last Initial":"A.",
+    "Solar Module Count":15,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":"SolarEdge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.6185409,40.7073488 ]
+    },
+    "properties": {
+    "First Name":"Leora",
+    "Last Initial":"H.",
+    "Solar Module Count":26,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7501024,40.7758439 ]
+    },
+    "properties": {
+    "First Name":"Davood",
+    "Last Initial":"J.",
+    "Solar Module Count":26,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8311694,40.691449 ]
+    },
+    "properties": {
+    "First Name":"Maria",
+    "Last Initial":"C.",
+    "Solar Module Count":25,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8843888,40.6709822 ]
+    },
+    "properties": {
+    "First Name":"David",
+    "Last Initial":"C.",
+    "Solar Module Count":17,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.922406,40.681211 ]
+    },
+    "properties": {
+    "First Name":"Anthony",
+    "Last Initial":"F.",
+    "Solar Module Count":16,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8887474,40.7046914 ]
+    },
+    "properties": {
+    "First Name":"Heriberto",
+    "Last Initial":"E.",
+    "Solar Module Count":15,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8205047,40.6767634 ]
+    },
+    "properties": {
+    "First Name":"Kumar (Brian)",
+    "Last Initial":"K.",
+    "Solar Module Count":16,
+    "Module Wattage":"370W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0045323,41.2025009 ]
+    },
+    "properties": {
+    "First Name":"Michael",
+    "Last Initial":"A.",
+    "Solar Module Count":null,
+    "Module Wattage":"",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7915429,40.7147524 ]
+    },
+    "properties": {
+    "First Name":"Yasmin",
+    "Last Initial":"A.",
+    "Solar Module Count":37,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9763932,40.6430443 ]
+    },
+    "properties": {
+    "First Name":"Jaroslaw",
+    "Last Initial":"C.",
+    "Solar Module Count":18,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9235048,40.6238069 ]
+    },
+    "properties": {
+    "First Name":"Ian",
+    "Last Initial":"N.",
+    "Solar Module Count":8,
+    "Module Wattage":"335W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.614255,40.666088 ]
+    },
+    "properties": {
+    "First Name":"Ahmed",
+    "Last Initial":"E.",
+    "Solar Module Count":13,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1943603,40.5539164 ]
+    },
+    "properties": {
+    "First Name":"Edison",
+    "Last Initial":"E.",
+    "Solar Module Count":10,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.6026663,41.3919346 ]
+    },
+    "properties": {
+    "First Name":"Johnny",
+    "Last Initial":"D.",
+    "Solar Module Count":42,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8128083,40.6753877 ]
+    },
+    "properties": {
+    "First Name":"Ricky",
+    "Last Initial":"S.",
+    "Solar Module Count":28,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7055072,40.6517783 ]
+    },
+    "properties": {
+    "First Name":"Mumtaz",
+    "Last Initial":"C.",
+    "Solar Module Count":13,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.832451,40.7120881 ]
+    },
+    "properties": {
+    "First Name":"Karen",
+    "Last Initial":"E.",
+    "Solar Module Count":214,
+    "Module Wattage":"",
+    "Module Manufacturer":"",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.854895,40.674181 ]
+    },
+    "properties": {
+    "First Name":"Orlando",
+    "Last Initial":"O.",
+    "Solar Module Count":15,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8200959,40.6877237 ]
+    },
+    "properties": {
+    "First Name":"Kelvin",
+    "Last Initial":"B.",
+    "Solar Module Count":9,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8962544,40.7581223 ]
+    },
+    "properties": {
+    "First Name":"Adalberto",
+    "Last Initial":"A.",
+    "Solar Module Count":16,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9487581,40.643246 ]
+    },
+    "properties": {
+    "First Name":"Dieuve",
+    "Last Initial":"G.",
+    "Solar Module Count":25,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.910854,40.643709 ]
+    },
+    "properties": {
+    "First Name":"Yvette",
+    "Last Initial":"J.",
+    "Solar Module Count":18,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9269628,40.6874321 ]
+    },
+    "properties": {
+    "First Name":"Victor",
+    "Last Initial":"L.",
+    "Solar Module Count":16,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7639271,40.6908109 ]
+    },
+    "properties": {
+    "First Name":"Merle Foo",
+    "Last Initial":"M.",
+    "Solar Module Count":14,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8664316,40.8625757 ]
+    },
+    "properties": {
+    "First Name":"Patrick",
+    "Last Initial":"B.",
+    "Solar Module Count":14,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8353587,40.707243 ]
+    },
+    "properties": {
+    "First Name":"Indrawatte",
+    "Last Initial":"R.",
+    "Solar Module Count":16,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8241928,40.6779561 ]
+    },
+    "properties": {
+    "First Name":"John",
+    "Last Initial":"A.",
+    "Solar Module Count":9,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8523708,40.8902229 ]
+    },
+    "properties": {
+    "First Name":"Yolanda",
+    "Last Initial":"S.",
+    "Solar Module Count":12,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8604203,40.8695936 ]
+    },
+    "properties": {
+    "First Name":"Eartha",
+    "Last Initial":"C.",
+    "Solar Module Count":10,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8781818,40.7639608 ]
+    },
+    "properties": {
+    "First Name":"Herman",
+    "Last Initial":"V.",
+    "Solar Module Count":20,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0118349,40.6229739 ]
+    },
+    "properties": {
+    "First Name":"Joanna",
+    "Last Initial":"H.",
+    "Solar Module Count":23,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9286475,40.6258928 ]
+    },
+    "properties": {
+    "First Name":"Kenneth",
+    "Last Initial":"O.",
+    "Solar Module Count":11,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0815788,40.6273535 ]
+    },
+    "properties": {
+    "First Name":"Curline",
+    "Last Initial":"A.",
+    "Solar Module Count":11,
+    "Module Wattage":"300W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8451539,40.7193578 ]
+    },
+    "properties": {
+    "First Name":"Robert",
+    "Last Initial":"S.",
+    "Solar Module Count":318,
+    "Module Wattage":"",
+    "Module Manufacturer":"",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.81169,40.687669 ]
+    },
+    "properties": {
+    "First Name":"Durand",
+    "Last Initial":"B.",
+    "Solar Module Count":18,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.090414,40.5732591 ]
+    },
+    "properties": {
+    "First Name":"Pavel",
+    "Last Initial":"L.",
+    "Solar Module Count":28,
+    "Module Wattage":"330W",
+    "Module Manufacturer":"S-Energy",
+    "Inverter Manufacturer":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8673328,40.7567299 ]
+    },
+    "properties": {
+    "First Name":"Loyda",
+    "Last Initial":"A.",
+    "Solar Module Count":34,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0930779,40.5797108 ]
+    },
+    "properties": {
+    "First Name":"Marina",
+    "Last Initial":"R.",
+    "Solar Module Count":21,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8120431,40.7061286 ]
+    },
+    "properties": {
+    "First Name":"Mohini",
+    "Last Initial":"K.",
+    "Solar Module Count":15,
+    "Module Wattage":"345W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8480673,40.8944514 ]
+    },
+    "properties": {
+    "First Name":"Anthony",
+    "Last Initial":"H.",
+    "Solar Module Count":14,
+    "Module Wattage":"360W",
+    "Module Manufacturer":"SunPower",
+    "Inverter Manufacturer":"ACPV"
+    }
+  }
+]
+}
