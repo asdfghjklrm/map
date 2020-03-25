@@ -52,6 +52,12 @@
           });
         }
       }
+      google.maps.event.addListener(marker,'click', (function(marker,content,infowindow){ 
+        return function() {
+          infowindow.setContent(content);
+          infowindow.open(map,marker);
+        };
+      })(marker,content,infowindow));  
     </script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFbCbRLnCZk37_6y6fSRVGeUEcNFkyf0Q&callback=initMap"
     async defer></script>
